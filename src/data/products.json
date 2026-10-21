@@ -1,1 +1,122 @@
-[]
+[
+  {
+    "id": 1,
+    "name": "Ethiopia Yirgacheffe",
+    "price": 18.5,
+    "category": "Coffee Beans",
+    "description": "Bright and floral single-origin with notes of jasmine, bergamot, and lemon. Light roast, 12 oz bag.",
+    "imageUrl": "./images/product1.svg"
+  },
+  {
+    "id": 2,
+    "name": "Colombia Huila",
+    "price": 16,
+    "category": "Coffee Beans",
+    "description": "A balanced, sweet medium roast with caramel and red apple notes. Our everyday crowd-pleaser.",
+    "imageUrl": "./images/product2.svg"
+  },
+  {
+    "id": 3,
+    "name": "Sumatra Mandheling",
+    "price": 17.25,
+    "category": "Coffee Beans",
+    "description": "Earthy, full-bodied dark roast with cedar and dark chocolate. Low acidity and a long finish.",
+    "imageUrl": "./images/product3.svg"
+  },
+  {
+    "id": 4,
+    "name": "Ember House Espresso",
+    "price": 19,
+    "category": "Coffee Beans",
+    "description": "Our signature espresso blend roasted for syrupy body, cocoa sweetness, and a hazelnut crema.",
+    "imageUrl": "./images/product4.svg"
+  },
+  {
+    "id": 5,
+    "name": "Midnight Decaf",
+    "price": 17,
+    "category": "Coffee Beans",
+    "description": "Swiss Water Process decaf with notes of molasses and toasted almond. All flavor, no jitters.",
+    "imageUrl": "./images/product5.svg"
+  },
+  {
+    "id": 6,
+    "name": "Ceramic Pour-Over Dripper",
+    "price": 28,
+    "category": "Brewing Gear",
+    "description": "Hand-glazed ceramic cone dripper with spiral ribs for an even, controlled extraction.",
+    "imageUrl": "./images/product6.svg"
+  },
+  {
+    "id": 7,
+    "name": "Gooseneck Kettle",
+    "price": 54,
+    "category": "Brewing Gear",
+    "description": "Stainless steel kettle with a precision spout and built-in thermometer for perfect pours.",
+    "imageUrl": "./images/product7.svg"
+  },
+  {
+    "id": 8,
+    "name": "French Press, 34 oz",
+    "price": 39,
+    "category": "Brewing Gear",
+    "description": "Double-walled steel French press that keeps coffee hot and brews rich, full-bodied cups.",
+    "imageUrl": "./images/product8.svg"
+  },
+  {
+    "id": 9,
+    "name": "Burr Hand Grinder",
+    "price": 72,
+    "category": "Brewing Gear",
+    "description": "Conical steel burr grinder with 40 click settings, from espresso-fine to cold-brew coarse.",
+    "imageUrl": "./images/product9.svg"
+  },
+  {
+    "id": 10,
+    "name": "Cold Brew Jar",
+    "price": 26.5,
+    "category": "Brewing Gear",
+    "description": "Glass jar with a fine mesh filter insert. Steep overnight for smooth, low-acid cold brew.",
+    "imageUrl": "./images/product10.svg"
+  },
+  {
+    "id": 11,
+    "name": "Speckled Stoneware Mug",
+    "price": 22,
+    "category": "Drinkware",
+    "description": "A 12 oz handmade stoneware mug with a speckled cream glaze. Microwave and dishwasher safe.",
+    "imageUrl": "./images/product11.svg"
+  },
+  {
+    "id": 12,
+    "name": "Ember Logo Mug",
+    "price": 18,
+    "category": "Drinkware",
+    "description": "Our classic 14 oz diner-style mug in deep ember red with the Ember & Bean flame logo.",
+    "imageUrl": "./images/product12.svg"
+  },
+  {
+    "id": 13,
+    "name": "Insulated Travel Tumbler",
+    "price": 32,
+    "category": "Drinkware",
+    "description": "Vacuum-insulated 16 oz tumbler with a leakproof lid. Keeps coffee hot for 6 hours.",
+    "imageUrl": "./images/product13.svg"
+  },
+  {
+    "id": 14,
+    "name": "Espresso Cup Set",
+    "price": 30,
+    "category": "Drinkware",
+    "description": "Set of four 3 oz porcelain demitasse cups with matching saucers. Perfect for a double shot.",
+    "imageUrl": "./images/product14.svg"
+  },
+  {
+    "id": 15,
+    "name": "Barista Gift Box",
+    "price": 64,
+    "category": "Gift Sets",
+    "description": "Two bags of seasonal beans, a stoneware mug, and a tasting journal, packed in a kraft gift box.",
+    "imageUrl": "./images/product15.svg"
+  }
+]
